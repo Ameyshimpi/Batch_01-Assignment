@@ -1,0 +1,42 @@
+1. Write a code that enters temperature in Celcius and converts that into Fahrenheit.
+
+2. Write a program that accepts the radius of a circle and calculates the area and perimeter of that circle.
+
+3. Write a program to accept a number in decimal and print the number in octal and hexadecimal.
+
+4. Swapping of two no.s (with, without temporary, one line code with xor operator)
+
+5.Implement a C program to Differentiate between post, pre decrement
+operators, consider below mention scenario.
+a) k=i++, k=++i
+b) y=x++10, y=++x10
+c) q=p--/3, q=—p/3
+
+6. Implement a C program to find out biggest of 3 no.s using conditional operator.
+
+7. Write a program to convert time between hh:mm:ss format and total no.of seconds
+(note:- you may take the input hh,mm,ss separately, need not be in string form)
+( for eg:- 1:2:30 ==> 3750 8000 ==> 2:13:20 )
+
+8.Implement a C program using formatted I/O using printf (%5d, %05d,%-5d,%8.2f, %.2f etc.)
+
+9.Implement a C program, where is a=10,b=20,c=30 evaluate the following
+d=++a,++b,++c,a+5;
+d=(++a,++b,++c,a+5);
+
+10. Accept any two numbers, if the first number is greater than second number then print the difference of these two numbers, otherwise print their sum. Write this program using ternary operator.
+
+11.Write a program that accepts marks in five subjects and calcuates the total percentage marks.
+
+
+12. Develop a C program to perform operations (+,*,-, / and %) on two whole numbers. Identify
+suitable data types to represent the numbers and resultant values
+
+13. Develop a C program to add two operands and store the result in one of the operand using
+addition assignment operator.
+
+14. Write a C program to find the maximum of 2 numbers using Conditional operator.
+
+15. Write a program to perform operations on complex numbers.
+
+16. Write a program to find out difference in days between any two dates. It must work regardless of the year, month and day. Consider Leap years while calculating the difference.
